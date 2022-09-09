@@ -1,0 +1,15 @@
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\bin\Debug\net6.0\WorkTwo.exe
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\bin\Debug\net6.0\WorkTwo.deps.json
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\bin\Debug\net6.0\WorkTwo.runtimeconfig.json
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\bin\Debug\net6.0\WorkTwo.dll
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\bin\Debug\net6.0\WorkTwo.pdb
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\obj\Debug\net6.0\WorkTwo.csproj.AssemblyReference.cache
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\obj\Debug\net6.0\WorkTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\obj\Debug\net6.0\WorkTwo.AssemblyInfoInputs.cache
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\obj\Debug\net6.0\WorkTwo.AssemblyInfo.cs
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\obj\Debug\net6.0\WorkTwo.csproj.CoreCompileInputs.cache
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\obj\Debug\net6.0\WorkTwo.dll
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\obj\Debug\net6.0\refint\WorkTwo.dll
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\obj\Debug\net6.0\WorkTwo.pdb
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\obj\Debug\net6.0\WorkTwo.genruntimeconfig.cache
+C:\Users\kmutt5\Desktop\Week5\WorkTwo\obj\Debug\net6.0\ref\WorkTwo.dll
